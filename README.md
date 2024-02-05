@@ -34,6 +34,7 @@ The implementation is carried out using PyTorch, a popular deep learning framewo
     - To add the dataset in your notebook click on add data and select CelebA dataset, it will then add into your data like this.
 
 After all this step your kaggle notbook is ready. Just run the code I provided in this repo.
+
 ***One main point is, in kaggle you don't need to run first three cells of code. Run from here......
 
    ![start](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/d7611936-c87e-40d0-8045-1b39f6f1b881)
