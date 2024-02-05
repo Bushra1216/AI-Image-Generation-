@@ -21,15 +21,19 @@ The implementation is carried out using PyTorch, a popular deep learning framewo
     - Open the Kaggle notebook and verify your account to use the GPU. You find it on the right side of your notebook under Notebook options.
     - Then you get the access to use GPU. On the right side you find Accelerator option, click on that and select GPU as T4 or P100.
       
-    - Turn on the internet. ![notebook opt](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/56e6b576-889d-4e9c-9b86-5fa3d2c2880b)
+    ![notebook opt](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/56e6b576-889d-4e9c-9b86-5fa3d2c2880b)
+
+    - Turn on the internet.
    
     - After setup the GPU , then search on Kaggle dataset for CelebA and download it.
+     
       
       ![add dataset](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/2660e4e4-280f-48c3-8e7d-66145cd23b5d)
       
+      
     - To add the dataset in your notebook click on add data like this.
 
-After all this step your notbook is ready. Just run 
+After all this step your notbook is ready. Just run the code I provided here.
       
 
 3. **Colab Setup:**
