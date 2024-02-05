@@ -21,7 +21,7 @@ The implementation is carried out using PyTorch, a popular deep learning framewo
     - Open the Kaggle notebook and verify your account to use the GPU. You find it on the right side of your notebook under Notebook options.
     - Then you get the access to use GPU. On the right side you find Accelerator option, click on that and select GPU as T4 or P100.
       
-      ![notebook opt](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/56e6b576-889d-4e9c-9b86-5fa3d2c2880b)
+        ![notebook opt](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/56e6b576-889d-4e9c-9b86-5fa3d2c2880b)
 
     - Turn on the internet.
    
@@ -54,4 +54,4 @@ The generated images are compared with traditional Generative Adversarial Networ
 
 ![ty](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/6e2985a1-f886-4e59-9d32-a2026c361c4a)
 
-To get more better result you just need to increase the number of epochs.Feel free to explore the code, experiment with different hyperparameters, and contribute to the improvement of the model. If you have any questions or suggestions, please open an issue or reach out to [shanjidabushra@gmail.com].
+To get more better result you just need to increase the number of epochs.Feel free to explore the code, experiment with different hyperparameters, and contribute to the improvement of the model. If you have any questions or suggestions, please open an issue or reach out to [shanjidabushra@gmail.com](shanjidabushra@gmail.com).
