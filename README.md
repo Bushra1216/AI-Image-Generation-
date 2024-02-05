@@ -62,6 +62,8 @@ DEVICE = torch.device(f'cuda:{CUDA_DEVICE_NUM}' if torch.cuda.is_available() els
 print('Device:', DEVICE)
 
 ````
+
+
    
 
 2. **Colab Setup:**
@@ -85,5 +87,6 @@ To get more better result you just need to increase the number of epochs.Feel fr
 
 
 If you find this project interesting or helpful, please consider giving it a star ⭐
+
 By starring the repository, you show your appreciation and help others discover the project.
 
