@@ -1,4 +1,4 @@
-# AI-Image-Generation-
+# AI-Image-Generation
 Face Image generation using deep learning model DCGAN and compared with GAN model.
 
 ### Project Overview
@@ -20,9 +20,8 @@ The implementation is carried out using PyTorch, a popular deep learning framewo
     - Navigate to Kaggle and create an account if you don't have one.
     - Open the Kaggle notebook and verify your account to use the GPU. You find it on the right side of your notebook under Notebook options.
     - Then you get the access to use GPU. On the right side you find Accelerator option, click on that and select GPU as T4 or P100.
-    - Turn on the internet.
       
-      ![notebook opt](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/56e6b576-889d-4e9c-9b86-5fa3d2c2880b)
+    - Turn on the internet. ![notebook opt](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/56e6b576-889d-4e9c-9b86-5fa3d2c2880b)
    
     - After setup the GPU , then search on Kaggle dataset for CelebA and download it.
       
