@@ -37,7 +37,23 @@ After all this step your kaggle notbook is ready. Just run the code I provided i
 
 ***One main point is, in kaggle you don't need to run first three cells of code. Run from here......
 
-   ![start](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/d7611936-c87e-40d0-8045-1b39f6f1b881)
+```` py
+
+import torch
+from torch import nn
+import torch.optim as optim
+from torch.utils.data import DataLoader
+from torchvision import transforms
+from torchvision.datasets import ImageFolder
+import torchvision.utils as vutils
+
+import matplotlib.pyplot as plt
+import numpy as np
+import random
+import timeit
+from tqdm import tqdm
+
+````
    
 
 2. **Colab Setup:**
