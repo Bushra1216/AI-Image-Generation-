@@ -21,7 +21,7 @@ The implementation is carried out using PyTorch, a popular deep learning framewo
     - Open the Kaggle notebook and verify your account to use the GPU. You find it on the right side of your notebook under Notebook options.
     - Then you get the access to use GPU. On the right side you find Accelerator option, click on that and select GPU as T4 or P100.
       
-    ![notebook opt](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/56e6b576-889d-4e9c-9b86-5fa3d2c2880b)
+      ![notebook opt](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/56e6b576-889d-4e9c-9b86-5fa3d2c2880b)
 
     - Turn on the internet.
    
@@ -31,30 +31,27 @@ The implementation is carried out using PyTorch, a popular deep learning framewo
       ![add dataset](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/2660e4e4-280f-48c3-8e7d-66145cd23b5d)
       
       
-    - To add the dataset in your notebook click on add data like this.
+    - To add the dataset in your notebook click on add data and select CelebA dataset, it will then add into your data like this.
 
-After all this step your notbook is ready. Just run the code I provided here.
-      
+After all this step your kaggle notbook is ready. Just run the code I provided in this repo.
+***One main point is, in kaggle you don't need to run first three cells of code. Run from here......
 
-3. **Colab Setup:**
+   ![start](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/d7611936-c87e-40d0-8045-1b39f6f1b881)
+   
+
+2. **Colab Setup:**
     - Open the Colab notebook linked with this project.
     - Click on "Runtime" in the top menu and select "Change runtime type."
     - Choose "GPU" under the "Hardware accelerator" dropdown.
 
 These steps will enable you to harness the computational power of a GPU for efficient training and execution of the project code.
 
-Feel free to adapt these instructions based on your specific setup or provide additional details as needed.
+
+## Results
+
+The generated images are compared with traditional Generative Adversarial Network (GAN) results, highlighting the advancements and improvements brought about by the DCGAN architecture.
 
 
+![ty](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/6e2985a1-f886-4e59-9d32-a2026c361c4a)
 
-
-
-
-
-
-
-
-
-
-
-Feel free to explore the code, experiment with different hyperparameters, and contribute to the improvement of the model. If you have any questions or suggestions, please open an issue or reach out to [your contact information].
+To get more better result you just need to increase the number of epochs.Feel free to explore the code, experiment with different hyperparameters, and contribute to the improvement of the model. If you have any questions or suggestions, please open an issue or reach out to [shanjidabushra@gmail.com].
