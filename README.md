@@ -35,7 +35,7 @@ The implementation is carried out using PyTorch, a popular deep learning framewo
 
 After all this step your kaggle notbook is ready. Just run the code I provided in this repo.
 
-***One main point is, in kaggle you don't need to run first three cells of code. Run from here......
+***One main point is, in kaggle you don't need to run first three cells of code. Just start from here......
 
 ```` py
 
@@ -54,14 +54,24 @@ import timeit
 from tqdm import tqdm
 
 ````
+
+```` py
+
+CUDA_DEVICE_NUM = 2
+DEVICE = torch.device(f'cuda:{CUDA_DEVICE_NUM}' if torch.cuda.is_available() else 'cpu')
+print('Device:', DEVICE)
+
+````
    
 
 2. **Colab Setup:**
     - Open the Colab notebook linked with this project.
     - Click on "Runtime" in the top menu and select "Change runtime type."
     - Choose "GPU" under the "Hardware accelerator" dropdown.
+    - To get the dataset on colab , go to your kaggle account profile and create an api token. It will be dowloaded a json file
+    - Upload that json file in colab notebook
 
-These steps will enable you to harness the computational power of a GPU for efficient training and execution of the project code.
+These steps will enable you to harness the computational power of a GPU for efficient training and help to complete the initial implemtation.
 
 
 ## Results
