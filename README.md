@@ -82,3 +82,8 @@ The generated images are compared with traditional Generative Adversarial Networ
 ![ty](https://github.com/Bushra1216/AI-Image-Generation-/assets/156702727/6e2985a1-f886-4e59-9d32-a2026c361c4a)
 
 To get more better result you just need to increase the number of epochs.Feel free to explore the code, experiment with different hyperparameters, and contribute to the improvement of the model. If you have any questions or suggestions, please open an issue or reach out to [shanjidabushra@gmail.com](shanjidabushra@gmail.com)
+
+
+If you find this project interesting or helpful, please consider giving it a star ⭐
+By starring the repository, you show your appreciation and help others discover the project.
+
