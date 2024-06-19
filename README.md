@@ -73,7 +73,7 @@ print('Device:', DEVICE)
     - To get the dataset on colab , go to your kaggle account profile and create an api token. It will be dowloaded a json file
     - Upload that json file in colab notebook
 
-These steps will enable you to harness the computational power of a GPU for efficient training and help to complete the initial implemtation.
+These steps will enable you to harness the computational power of GPU for efficient training and help to complete the initial implementation.
 
 
 ## Results
